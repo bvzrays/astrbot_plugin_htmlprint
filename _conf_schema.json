@@ -1,0 +1,7 @@
+{
+  "enabled": {
+    "description": "是否启用HTML内容提取插件",
+    "type": "bool",
+    "default": true
+  }
+}
